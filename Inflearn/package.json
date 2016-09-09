@@ -1,0 +1,23 @@
+{
+  "name": "inflearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SyncTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwan0930/node_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwan0930/node_JS/issues"
+  },
+  "homepage": "https://github.com/kiwan0930/node_JS#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
